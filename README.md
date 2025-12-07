@@ -1,21 +1,3 @@
-
-<!--
-**ebicoglu/ebicoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <h1 align="left">Hey 👋  friends!</h1>
 
 ###
@@ -35,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">My social media</h2>
+<h2 align="left">My Social Media Links</h2>
 
 ###
 
@@ -69,13 +51,13 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">How to reach me</h2>
+<h2 align="left">How to Reach Me?</h2>
 
 📫 Write an email to alper.ebicoglu[@]volosoft.com
 
 ###
 
-<h2>📑 My recent articles</h2>
+<h2>📑 My Recent Articles</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [My First Look and Experience with Google AntiGravity](https://medium.com/abp-community/my-first-look-and-experience-with-google-antigravity-83313dd929b2?source=rss-2874682636d2------2)
@@ -86,7 +68,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-<h2>🐦 My recent tweets</h2>
+<h2>🐦 My Recent Tweets</h2>
 
 <!-- TWEETS:START -->
 <!-- TWEETS:END -->
