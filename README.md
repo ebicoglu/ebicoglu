@@ -79,3 +79,5 @@ Here are some ideas to get you started:
 
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
+
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
