@@ -2,7 +2,7 @@ name: Latest Tweets
 
 on:
   schedule:
-    - cron: "0 * * * *"  # every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,58 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Install Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Update tweets in README
+      - name: Fetch tweets and update README
         run: |
-          npm init -y >/dev/null
-          npm install twitter-api-v2 >/dev/null
+          curl -s "https://rss2json.com/api.json?rss=https://nitter.net/alperebicoglu/rss" > tweets.json
 
-          cat << 'EOF' > fetch.js
-          import { TwitterApi } from "twitter-api-v2";
-          import fs from "fs";
+          TWEETS=$(jq -r '.items[:3] | map("- " + .title) | join("\n")' tweets.json)
 
-          const client = new TwitterApi(process.env.TWITTER_BEARER_TOKEN);
-          const username = "alperebicoglu";
-          const count = 3;
+          START="<!-- TWEETS:START -->"
+          END="<!-- TWEETS:END -->"
+          BLOCK="$START"$'\n'"$TWEETS"$'\n'"$END"
 
-          const run = async () => {
-            const user = await client.v2.userByUsername(username);
-            const timeline = await client.v2.userTimeline(user.data.id, { max_results: count });
-            const tweets = timeline.data.data.slice(0, count);
+          perl -0777 -pe "s/\Q$START\E[\\s\\S]*?\Q$END\E/$BLOCK/" README.md > README.new
+          mv README.new README.md
 
-            const formatted = tweets
-              .map(t => `- ${t.text.replace(/\n/g, " ").trim()}`)
-              .join("\n");
-
-            let readme = fs.readFileSync("README.md", "utf8");
-            const start = "<!-- TWEETS:START -->";
-            const end = "<!-- TWEETS:END -->";
-            const block = `${start}\n${formatted}\n${end}`;
-
-            if (readme.includes(start) && readme.includes(end)) {
-              const regex = new RegExp(`${start}[\\s\\S]*?${end}`);
-              readme = readme.replace(regex, block);
-            } else {
-              readme += `\n\n${block}`;
-            }
-
-            fs.writeFileSync("README.md", readme);
-          };
-          run();
-          EOF
-
-          node fetch.js
-        env:
-          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
-
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update latest tweets"
