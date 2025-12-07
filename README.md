@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2>My recent articles</h2>
+<h2>📑 My recent articles</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [My First Look and Experience with Google AntiGravity](https://medium.com/abp-community/my-first-look-and-experience-with-google-antigravity-83313dd929b2?source=rss-2874682636d2------2)
@@ -84,3 +84,9 @@ Here are some ideas to get you started:
 - [Optimize Your .NET App for Production — Complete Checklist &lpar;Part 1&rpar;](https://medium.com/abp-community/optimize-your-net-app-for-production-complete-checklist-part-1-562fce654ced?source=rss-2874682636d2------2)
 - [Native AOT: How to Fasten Startup Time and Memory Footprint](https://medium.com/abp-community/native-aot-how-to-fasten-startup-time-and-memory-footprint-4ef7d0dc451f?source=rss-2874682636d2------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+<h2>🐦 My recent tweets</h2>
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
