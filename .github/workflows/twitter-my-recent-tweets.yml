@@ -2,7 +2,7 @@ name: Latest Tweets
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # every hour
   workflow_dispatch:
 
 permissions:
@@ -13,21 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Fetch tweets and update README
-        run: |
-          curl -s "https://rss2json.com/api.json?rss=https://nitter.net/alperebicoglu/rss" > tweets.json
+      - name: Fetch tweets
+        uses: DenverCoder1/twitter-readme-action@v1.2
+        with:
+          twitter_user: "alperebicoglu"
+          count: "3"
+          twitter_bearer_token: ${{ secrets.TWITTER_BEARER_TOKEN }}
 
-          TWEETS=$(jq -r '.items[:3] | map("- " + .title) | join("\n")' tweets.json)
-
-          START="<!-- TWEETS:START -->"
-          END="<!-- TWEETS:END -->"
-          BLOCK="$START"$'\n'"$TWEETS"$'\n'"$END"
-
-          perl -0777 -pe "s/\Q$START\E[\\s\\S]*?\Q$END\E/$BLOCK/" README.md > README.new
-          mv README.new README.md
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update latest tweets"
