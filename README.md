@@ -90,3 +90,6 @@ Here are some ideas to get you started:
 
 <!-- TWITTER:START -->
 <!-- TWITTER:END -->
+
+<!-- TWEETS:START -->
+<!-- TWEETS:END -->
