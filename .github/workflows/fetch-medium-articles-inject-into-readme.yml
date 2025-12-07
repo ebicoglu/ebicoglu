@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://alperonline.medium.com/feed"
-          max_post_count: 3
+          max_post_count: 5
 
       - name: Commit updates
         uses: stefanzweifel/git-auto-commit-action@v4
