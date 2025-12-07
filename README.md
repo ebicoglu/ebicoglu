@@ -72,3 +72,10 @@ Here are some ideas to get you started:
 <h2 align="left">How to reach me</h2>
 
 📫 Write an email to alper.ebicoglu[@]volosoft.com
+
+###
+
+<h2>My recent articles</h2>
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
