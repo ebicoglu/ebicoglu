@@ -30,8 +30,12 @@ async function run() {
   );
 
   const data = await res.json();
+
+
   if (!data.data) {
     console.log("No tweets found");
+    console.log("STATUS:", res.status);
+    console.log("RAW RESPONSE:", JSON.stringify(data, null, 2));
     return;
   }
 
