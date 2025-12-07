@@ -21,6 +21,7 @@ jobs:
         with:
           twitter_user: "alperebicoglu"
           count: "3"
+          twitter_bearer_token: ${{ secrets.TWITTER_BEARER_TOKEN }}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
