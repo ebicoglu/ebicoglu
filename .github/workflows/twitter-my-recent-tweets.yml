@@ -1,0 +1,28 @@
+name: Latest Tweets
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-tweets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Fetch tweets
+        uses: DenverCoder1/twitter-readme-action@v1.2
+        with:
+          twitter_user: "alperebicoglu"
+          count: "3"
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update latest tweets"
