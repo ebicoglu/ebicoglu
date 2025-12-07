@@ -3,12 +3,12 @@ const fs = require("fs");
 async function run() {
   const { default: fetch } = await import("node-fetch");
   const bearer = process.env.TWITTER_BEARER_TOKEN;
-  const username = "alperebicoglu";
   const userId = 2996161529;
   const maxTweetCount = 5;
   
+  
 /*
-  // 1) Get user ID
+  // Get user ID
   let res = await fetch(`https://api.twitter.com/2/users/by/username/${username}`, {
     headers: { Authorization: `Bearer ${bearer}` }
   });
@@ -20,27 +20,48 @@ async function run() {
   const userId = u.data.id; //2996161529
   console.log("UserId:" + userId);
 */
-  
-  // 2) Fetch tweets
-  res = await fetch(`https://api.twitter.com/2/users/${userId}/tweets?max_results=${maxTweetCount}`, {
-    headers: { Authorization: `Bearer ${bearer}` }
-  });
-  const data = await res.json();
 
-  console.log("STATUS:", res.status);
-  console.log("RAW RESPONSE:", JSON.stringify(data, null, 2));
-  
+  // 1) Fetch tweets
+  const res = await fetch(
+    `https://api.twitter.com/2/users/${userId}/tweets?max_results=${maxTweetCount}`,
+    {
+      headers: { Authorization: `Bearer ${bearer}` }
+    }
+  );
+
+  const data = await res.json();
   if (!data.data) {
     console.log("No tweets found");
     return;
   }
 
-  let md = "## 🐦 Latest Tweets\n\n";
+  // Build markdown bullet list
+  let tweetMd = "";
   data.data.forEach(t => {
-    md += `- ${t.text.replace(/\n/g, " ")}\n`;
+    tweetMd += `- ${t.text.replace(/\n/g, " ")}\n`;
   });
 
-  fs.writeFileSync("TWEETS.md", md);
+  // Read README
+  let readme = fs.readFileSync("README.md", "utf8");
+
+  const startTag = "<!-- TWEETS:START -->";
+  const endTag = "<!-- TWEETS:END -->";
+
+  const newContent =
+    startTag +
+    "\n\n" +
+    tweetMd +
+    "\n" +
+    endTag;
+
+  // Replace the section
+  const updatedReadme = readme.replace(
+    new RegExp(`${startTag}[\\s\\S]*?${endTag}`),
+    newContent
+  );
+
+  fs.writeFileSync("README.md", updatedReadme);
+  console.log("README.md updated with latest tweets!");
 }
 
 run();
