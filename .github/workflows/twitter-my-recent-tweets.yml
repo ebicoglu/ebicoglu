@@ -2,7 +2,7 @@ name: Latest Tweets
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour
+    - cron: "0 * * * *" # every hour
   workflow_dispatch:
 
 permissions:
@@ -13,17 +13,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Fetch tweets
-        uses: DenverCoder1/twitter-readme-action@v1.2
+      - name: Install node
+        uses: actions/setup-node@v4
         with:
-          twitter_user: "alperebicoglu"
-          count: "3"
-          twitter_bearer_token: ${{ secrets.TWITTER_BEARER_TOKEN }}
+          node-version: '20'
 
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update latest tweets"
+      - name: Fetch tweets and update README
+        run: |
+          npm init -y > /dev/null
+          npm install node-fetch@2 twitter-api-v2@1 > /dev/null
+
+          cat << 'EOF' > update.js
+          import { TwitterApi } from 'twitter-api-v2';
+          import fs from 'fs';
+
+          const client = new TwitterApi(process.env.TWITTER_BEARER_TOKEN);
+          const username = 'alperebicoglu';
+          const count = 3;
+
+          const run = async () => {
+            const user = await client.v2.userByUsername(username);
+            const tweets = await client.v2.userTimeline(user.data.id, { max_results: count });
+
+            const list = tweets.data.data
+              .slice(0, count)
+              .map(t => `- ${t.text.replace(/\n/g, " ")}`)
+              .join('\n');
+
+            let readme = fs.readFileSync("README
