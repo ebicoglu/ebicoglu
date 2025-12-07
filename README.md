@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🙋 Who I am</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">My Social Media Links</h2>
+<h2 align="left">📢 My Social Media Links</h2>
 
 ###
 
@@ -40,20 +40,21 @@
     <td><a href="https://github.com/ebicoglu"><img src="https://img.icons8.com/color/32/github.png"/></a></td>
     <td><a href="https://github.com/ebicoglu">github.com/ebicoglu</a></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/ebicoglu/presentations/blob/main/README.md"><img src="https://img.icons8.com/color/32/classroom.png"/></a></td>
-    <td><a href="https://github.com/ebicoglu/presentations/blob/main/README.md">My Previous Talks</a></td>
-  </tr>
 </table>
 
 </div>
 
+###
+
+<h2 align="left">🤝 My Previous Conference Talks</h2>
+
+<a href="https://github.com/ebicoglu/presentations/blob/main/README.md">Click here to go to my conference talks</a>
 
 ###
 
-<h2 align="left">How to Reach Me?</h2>
+<h2 align="left">📫 How to Reach Me?</h2>
 
-📫 Write an email to alper.ebicoglu[@]volosoft.com
+Write an email to alper.ebicoglu[@]volosoft.com
 
 ###
 
