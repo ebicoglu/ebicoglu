@@ -88,12 +88,5 @@ Here are some ideas to get you started:
 
 <h2>🐦 My recent tweets</h2>
 
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
-
 <!-- TWEETS:START -->
 <!-- TWEETS:END -->
-
-<!-- tweets start -->
-[See Latest Tweets](./TWEETS.md)
-<!-- tweets end -->
