@@ -93,3 +93,7 @@ Here are some ideas to get you started:
 
 <!-- TWEETS:START -->
 <!-- TWEETS:END -->
+
+<!-- tweets start -->
+[See Latest Tweets](./TWEETS.md)
+<!-- tweets end -->
