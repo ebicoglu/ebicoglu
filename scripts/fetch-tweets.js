@@ -5,6 +5,7 @@ async function run() {
   const bearer = process.env.TWITTER_BEARER_TOKEN;
   const username = "alperebicoglu";
   const userId = 2996161529;
+  const maxTweetCount = 5;
   
 /*
   // 1) Get user ID
@@ -21,7 +22,7 @@ async function run() {
 */
   
   // 2) Fetch tweets
-  res = await fetch(`https://api.twitter.com/2/users/${userId}/tweets?max_results=3`, {
+  res = await fetch(`https://api.twitter.com/2/users/${userId}/tweets?max_results=${maxTweetCount}`, {
     headers: { Authorization: `Bearer ${bearer}` }
   });
   const data = await res.json();
