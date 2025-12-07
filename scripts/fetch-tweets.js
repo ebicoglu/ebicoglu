@@ -15,12 +15,15 @@ async function run() {
     return;
   }
   const userId = u.data.id;
+  console.log("UserId:" + userId);
 
   // 2) Fetch tweets
   res = await fetch(`https://api.twitter.com/2/users/${userId}/tweets?max_results=3`, {
     headers: { Authorization: `Bearer ${bearer}` }
   });
   const data = await res.json();
+  console.log("TweetData:" + data);
+  
   if (!data.data) {
     console.log("No tweets found");
     return;
