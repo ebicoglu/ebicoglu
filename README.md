@@ -59,6 +59,8 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <h2>📑 My Recent Articles</h2>
 
+<i>Synchronizing from medium.com...</i> 
+
 <!-- BLOG-POST-LIST:START -->
 - [My First Look and Experience with Google AntiGravity](https://medium.com/abp-community/my-first-look-and-experience-with-google-antigravity-83313dd929b2?source=rss-2874682636d2------2)
 - [Return Code vs Exceptions: Which One is Better?](https://medium.com/volosoft/return-code-vs-exceptions-which-one-is-better-3bfbbbd1f172?source=rss-2874682636d2------2)
@@ -69,6 +71,8 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 
 <h2>🐦 My Recent Tweets</h2>
+
+Synchronizing from x.com...
 
 <!-- TWEETS:START -->
 
