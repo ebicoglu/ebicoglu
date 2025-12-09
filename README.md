@@ -72,7 +72,7 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <h2>🐦 My Recent Tweets</h2>
 
-Synchronizing from x.com...
+<i>Synchronizing from x.com...</i> 
 
 <!-- TWEETS:START -->
 
