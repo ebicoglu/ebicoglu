@@ -59,7 +59,7 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <h2>📑 My Recent Articles</h2>
 
-<i>Synchronizing from medium.com...</i> 
+<i>Synchronizing from my <a href='https://alperonline.medium.com/'>medium.com</a>...</i> 
 
 <!-- BLOG-POST-LIST:START -->
 - [My First Look and Experience with Google AntiGravity](https://medium.com/abp-community/my-first-look-and-experience-with-google-antigravity-83313dd929b2?source=rss-2874682636d2------2)
@@ -72,7 +72,7 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <h2>🐦 My Recent Tweets</h2>
 
-<i>Synchronizing from x.com...</i> 
+<i>Synchronizing from my <a href='https://x.com/alperebicoglu'>x.com</a>...</i> 
 
 <!-- TWEETS:START -->
 
