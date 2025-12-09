@@ -47,7 +47,7 @@
 
 <h2 align="left">🤝 My Previous Conference Talks</h2>
 
-<a href="https://github.com/ebicoglu/presentations/blob/main/README.md">Click here to go to my conference talks</a>
+<a href="https://github.com/ebicoglu/presentations/blob/main/README.md">Click here to go to my conference talks ➡</a>
 
 ###
 
