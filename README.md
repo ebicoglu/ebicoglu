@@ -4,9 +4,9 @@
 
 <p align="left">My name is Alper EBICOGLU, I'm a software architect and co-founder of <a href='https://volosoft.com'>Volosoft</a>. I began my software career in the early 2000s. I'm one of the core maintainers of the popular open-source <a href='https://abp.io'>ABP Framework</a> and <a href='https://aspnetboilerplate.com/'>ASP.NET Boilerplate</a>. I've contributed to numerous technical articles and I'm an active speaker at international events.</p>
 
-✨ I started my software career with QBasic in 1997.
+✨ I wrote my first "Hello world" in QBasic in 1997.
 <br>🌱 I'm currently learning/writing/talking about AI and its benefits to software development.
-<br>🎯 My goal is to make [ABP Framework](https://github.com/abpframework/abp) a de facto standard in the .NET ecosystem for building modular enterprise apps.
+<br>🎯 My goal is to make [ABP Framework](https://github.com/abpframework/abp) a de-facto standard in the .NET ecosystem for building modular enterprise apps.
 <br>🎲 Fun fact: Visited over 40 countries.
 
 ###
