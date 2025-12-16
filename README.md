@@ -76,10 +76,10 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <!-- TWEETS:START -->
 
+- 𝐍𝐨𝐭𝐞𝐩𝐚𝐝++ 🚨A critical update! Reports show that there's a traffic hijacking vulnerability 😲 Notepad++'s Updater was redirected to malicious servers, which download compromised executables🤔 Update your Notepad++ now 🤝 https://t.co/dVBylLbQ7o https://t.co/UsFCkidOJY
 - 🆕Google AI Studio➖Developers and product teams who want a fast way to prototype can use this. You can test prompts, evaluate models and generate code snippets. You can think of it as a sandbox for quickly prototyping AI features🔗https://t.co/49VCs3oEU9 @GoogleAIStudio https://t.co/pn2fKOA1cU
 - @fidexcode Qbasic in 1997  𝐏𝐑𝐈𝐍𝐓 "𝐇𝐞𝐥𝐥𝐨 𝐰𝐨𝐫𝐥𝐝"
 - THE MOST READ COMMUNITY ARTICLES OF 2025 1. .NET 10 What You Need to Know  ⤵  https://t.co/xyoMJ9laU0    2. Best Alternatives to AutoMapper &amp; Why We Moved to Mapperly ⤵ https://t.co/C4kYjw79Vc    3. Build an In-Memory Background Job Queue from Scratch ⤵ https://t.co/dwSqbZsSf6 https://t.co/QcTs0Rgax0
 - ⁉ Will Google AntiGravity replace your main code-editor🙄? I tried out Google AntiGravity, the new code editor after Cursor. There are a few things I need to tell you😎 Read my recent article ⤵ https://t.co/Keniv2ukOx  @GoogleDeepMind @antigravity #dotnet #google #antigravity https://t.co/WqosptrhbY
-- Cool 😎 https://t.co/cOLdqARKzt
 
 <!-- TWEETS:END -->
