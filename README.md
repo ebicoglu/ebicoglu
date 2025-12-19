@@ -76,7 +76,7 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <!-- TWEETS:START -->
 
-- RT @abpframework: Semantic Kernel walked so Agent Framework could run! Join ABP Community Talks to explore Microsoft’s latest AI tools and…
+- RT @dotnetfdn: 🚀 ABP Community Talks 2025.10 | Dec 18 · 17:00 UTC A deep dive into AI-powered .NET apps with ABP, from Semantic Kernel to A…
 - 𝐍𝐨𝐭𝐞𝐩𝐚𝐝++ 🚨A critical update! Reports show that there's a traffic hijacking vulnerability 😲 Notepad++'s Updater was redirected to malicious servers, which download compromised executables🤔 Update your Notepad++ now 🤝 https://t.co/dVBylLbQ7o https://t.co/UsFCkidOJY
 - 🆕Google AI Studio➖Developers and product teams who want a fast way to prototype can use this. You can test prompts, evaluate models and generate code snippets. You can think of it as a sandbox for quickly prototyping AI features🔗https://t.co/49VCs3oEU9 @GoogleAIStudio https://t.co/pn2fKOA1cU
 - @fidexcode Qbasic in 1997  𝐏𝐑𝐈𝐍𝐓 "𝐇𝐞𝐥𝐥𝐨 𝐰𝐨𝐫𝐥𝐝"
