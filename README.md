@@ -76,10 +76,10 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <!-- TWEETS:START -->
 
+- New Vibe coding tool from #Google Write your browser https://t.co/MhL0DKxz0S https://t.co/QfByAItCmd
+- If you recommend ABP to someone and they buy it, you will now earn a %5 commission of the sale 👇 https://t.co/3hqI8Mpiau
+- This new #MCP tool lets AI assistants like #Gemini, #Claude, #AntiGravity or #Copilot control &amp; inspect your #Chrome browser via DevTools. It can read console logs, click, run scripts, navigate pages, close pages, fill forms, press keys, upload files, take screenshots ... #dotnet https://t.co/PgWfgzjFzw
+- @karthikponna19 For a long time, Microsoft SQL Server was the first choice for enterprises because of its world-class tooling and support. However, as companies moved to the cloud, the math changed. PostgreSQL got trendy because it costs 0$.
 - RT @dotnetfdn: 🚀 ABP Community Talks 2025.10 | Dec 18 · 17:00 UTC A deep dive into AI-powered .NET apps with ABP, from Semantic Kernel to A…
-- 𝐍𝐨𝐭𝐞𝐩𝐚𝐝++ 🚨A critical update! Reports show that there's a traffic hijacking vulnerability 😲 Notepad++'s Updater was redirected to malicious servers, which download compromised executables🤔 Update your Notepad++ now 🤝 https://t.co/dVBylLbQ7o https://t.co/UsFCkidOJY
-- 🆕Google AI Studio➖Developers and product teams who want a fast way to prototype can use this. You can test prompts, evaluate models and generate code snippets. You can think of it as a sandbox for quickly prototyping AI features🔗https://t.co/49VCs3oEU9 @GoogleAIStudio https://t.co/pn2fKOA1cU
-- @fidexcode Qbasic in 1997  𝐏𝐑𝐈𝐍𝐓 "𝐇𝐞𝐥𝐥𝐨 𝐰𝐨𝐫𝐥𝐝"
-- THE MOST READ COMMUNITY ARTICLES OF 2025 1. .NET 10 What You Need to Know  ⤵  https://t.co/xyoMJ9laU0    2. Best Alternatives to AutoMapper &amp; Why We Moved to Mapperly ⤵ https://t.co/C4kYjw79Vc    3. Build an In-Memory Background Job Queue from Scratch ⤵ https://t.co/dwSqbZsSf6 https://t.co/QcTs0Rgax0
 
 <!-- TWEETS:END -->
