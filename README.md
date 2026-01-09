@@ -76,10 +76,10 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <!-- TWEETS:START -->
 
+- With this tool, you can run local coding agents in parallel 👇  https://t.co/bzYmOICCDl
 - New Vibe coding tool from #Google Write your browser https://t.co/MhL0DKxz0S https://t.co/QfByAItCmd
 - If you recommend ABP to someone and they buy it, you will now earn a %5 commission of the sale 👇 https://t.co/3hqI8Mpiau
 - This new #MCP tool lets AI assistants like #Gemini, #Claude, #AntiGravity or #Copilot control &amp; inspect your #Chrome browser via DevTools. It can read console logs, click, run scripts, navigate pages, close pages, fill forms, press keys, upload files, take screenshots ... #dotnet https://t.co/PgWfgzjFzw
 - @karthikponna19 For a long time, Microsoft SQL Server was the first choice for enterprises because of its world-class tooling and support. However, as companies moved to the cloud, the math changed. PostgreSQL got trendy because it costs 0$.
-- RT @dotnetfdn: 🚀 ABP Community Talks 2025.10 | Dec 18 · 17:00 UTC A deep dive into AI-powered .NET apps with ABP, from Semantic Kernel to A…
 
 <!-- TWEETS:END -->
