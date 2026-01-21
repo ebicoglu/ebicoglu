@@ -62,11 +62,11 @@ Write an email to alper.ebicoglu[@]volosoft.com
 <i>Synchronizing from my <a href='https://alperonline.medium.com/'>medium.com</a>...</i> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Open-Source PDF Libraries Are Recently Popular ? A Data-Driven Look At PDF Topic](https://medium.com/abp-community/recently-popular-pdf-libraries-for-dotnet-csharp-questpdf-pdfsharp-itext-puppeteersharp-dea784b07dff?source=rss-2874682636d2------2)
 - [My First Look and Experience with Google AntiGravity](https://medium.com/abp-community/my-first-look-and-experience-with-google-antigravity-83313dd929b2?source=rss-2874682636d2------2)
 - [Return Code vs Exceptions: Which One is Better?](https://medium.com/volosoft/return-code-vs-exceptions-which-one-is-better-3bfbbbd1f172?source=rss-2874682636d2------2)
 - [Optimize Your .NET App for Production — Complete Checklist &lpar;Part 2&rpar;](https://medium.com/abp-community/optimize-your-net-app-for-production-complete-checklist-part-2-04aa77147dc5?source=rss-2874682636d2------2)
 - [Optimize Your .NET App for Production — Complete Checklist &lpar;Part 1&rpar;](https://medium.com/abp-community/optimize-your-net-app-for-production-complete-checklist-part-1-562fce654ced?source=rss-2874682636d2------2)
-- [Native AOT: How to Fasten Startup Time and Memory Footprint](https://medium.com/abp-community/native-aot-how-to-fasten-startup-time-and-memory-footprint-4ef7d0dc451f?source=rss-2874682636d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 
