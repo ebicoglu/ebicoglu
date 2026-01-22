@@ -76,10 +76,10 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <!-- TWEETS:START -->
 
+- Source code of X is now open on GitHub https://t.co/XmReqiWbZT
 - Today, I wrote an article "Which Open-Source PDF Libraries Are Recently Popular ? A Data-Driven Look At PDF Topic".  I hope it will be insightful for you.  #abpframework #dotnet #csharp #aspnetcore  https://t.co/VjG2ciXsSD
 - Yet another coding assistant. This time from #Google Connects your GitHub, creates VMs and writes code for you.  https://t.co/fqI6aC11Bw
 - With this tool, you can run local coding agents in parallel 👇  https://t.co/bzYmOICCDl
 - New Vibe coding tool from #Google Write your browser https://t.co/MhL0DKxz0S https://t.co/QfByAItCmd
-- If you recommend ABP to someone and they buy it, you will now earn a %5 commission of the sale 👇 https://t.co/3hqI8Mpiau
 
 <!-- TWEETS:END -->
