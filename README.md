@@ -76,10 +76,10 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <!-- TWEETS:START -->
 
+- Crafting Intelligent Agents with Context Engineering by Carly Richmond #NdcLondon https://t.co/yctLjqno4U
+- What happens when you vibe code and don't review⤵️ #ndclondon #ai #sheenaoconnell https://t.co/KZNDQ5Sobb
+- NDC London has just begun with a great keynote about how AI is transforming our lives. Are you aware of the generated AI code. How do we avoid sleepwalking in AI development #dotnet #ndclondon #abpio https://t.co/vkYtK5kqIK
 - We'll be in London for #NdcLondon Conference https://t.co/jQ71FZUFC9 https://t.co/ELADSMWhVU
 - Source code of X is now open on GitHub https://t.co/XmReqiWbZT
-- Today, I wrote an article "Which Open-Source PDF Libraries Are Recently Popular ? A Data-Driven Look At PDF Topic".  I hope it will be insightful for you.  #abpframework #dotnet #csharp #aspnetcore  https://t.co/VjG2ciXsSD
-- Yet another coding assistant. This time from #Google Connects your GitHub, creates VMs and writes code for you.  https://t.co/fqI6aC11Bw
-- With this tool, you can run local coding agents in parallel 👇  https://t.co/bzYmOICCDl
 
 <!-- TWEETS:END -->
