@@ -76,10 +76,10 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <!-- TWEETS:START -->
 
+- AI companies are stealing data in this competition https://t.co/4edElJeUg7
+- https://t.co/MIcY6VBtO4
 - #Cloudflare launched Markdown-for-Agents👉 converting websites to Markdown😎AI will read them faster and cheaper. Cloudflare services a huge chunk of the internet this'll boost how AI agents discover and understand content We’re enabling it on our websites https://t.co/79SsHgUxk0
 - #Cloudflare just dropped an API that converts ANY webpage → clean Markdown.  🚫No scraping infra 🚫No headless browser pain 🚫No messy HTML parsing 🚫One call = AI-ready content. ✅RAG, agents, automations just got way easier.  https://t.co/FyKFV9Mp7K
 - After AI revolution, coders 👎, engineers 👍
-- If you are creating an AI agent based on Turkish language, check this LLM 👇 https://t.co/3bQXhQsQHj
-- Did you ever check your AI-enabled agent is safe or not, you should.  There's a new project by #Microsoft it's called PyRIT: Risk Identification Tool for generative AI. You can run the pre-configured version on Docker without any extra installation.  See https://t.co/AOxdWwHhF0
 
 <!-- TWEETS:END -->
