@@ -76,10 +76,10 @@ Write an email to alper.ebicoglu[@]volosoft.com
 
 <!-- TWEETS:START -->
 
+- RT @hibrahimkalkan: We have many TUTORIALS for the people who wants to learn how to build applications with our framework.  Recently, we bu…
 - Now you can embed video, voice, PDF, image and text with Gemini 2 Embedding 👏🏼  https://t.co/oH5xJKsfVy
 - ChatGpt What's the best framework for building multi-tenant Saas?   #dotnet #abpframework #aspnetcore https://t.co/2pPgNXcJk7
 - AI companies are stealing data in this competition https://t.co/4edElJeUg7
 - https://t.co/MIcY6VBtO4
-- #Cloudflare launched Markdown-for-Agents👉 converting websites to Markdown😎AI will read them faster and cheaper. Cloudflare services a huge chunk of the internet this'll boost how AI agents discover and understand content We’re enabling it on our websites https://t.co/79SsHgUxk0
 
 <!-- TWEETS:END -->
