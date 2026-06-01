@@ -62,11 +62,11 @@ Write an email to alper.ebicoglu[@]volosoft.com
 <i>Synchronizing from my <a href='https://alperonline.medium.com/'>medium.com</a>...</i> 
 
 <!-- BLOG-POST-LIST:START -->
+- [DevDays 2026 Conf From a Speaker’s View](https://alperonline.medium.com/devdays-2026-conf-from-a-speakers-view-a2046f8c140b?source=rss-2874682636d2------2)
 - [Devnot .NET Conference 2026](https://alperonline.medium.com/devnot-net-conference-2026-3d30d3c34d0b?source=rss-2874682636d2------2)
 - [Top AI Coding Models in 2026: Which One Should Developers Actually Use?](https://medium.com/abp-community/top-ai-coding-models-in-2026-which-one-should-developers-actually-use-0b9662cd6f8c?source=rss-2874682636d2------2)
 - [AI and NDC London 2026: A .NET Conference From a Developer’s Perspective](https://medium.com/abp-community/ai-and-ndc-london-2026-a-net-conference-from-a-developers-perspective-081f99b76f0e?source=rss-2874682636d2------2)
 - [Which Open-Source PDF Libraries Are Recently Popular ? A Data-Driven Look At PDF Topic](https://medium.com/abp-community/recently-popular-pdf-libraries-for-dotnet-csharp-questpdf-pdfsharp-itext-puppeteersharp-dea784b07dff?source=rss-2874682636d2------2)
-- [My First Look and Experience with Google AntiGravity](https://medium.com/abp-community/my-first-look-and-experience-with-google-antigravity-83313dd929b2?source=rss-2874682636d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 
