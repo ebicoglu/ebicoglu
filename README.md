@@ -62,11 +62,11 @@ Write an email to alper.ebicoglu[@]volosoft.com
 <i>Synchronizing from my <a href='https://alperonline.medium.com/'>medium.com</a>...</i> 
 
 <!-- BLOG-POST-LIST:START -->
+- [We sponsored WeAreDevelopers 2026 | Berlin](https://alperonline.medium.com/we-sponsored-wearedevelopers-2026-berlin-0072e3276295?source=rss-2874682636d2------2)
 - [Empathy in the Workplace for Software Companies](https://medium.com/abp-community/empathy-in-the-workplace-for-software-companies-2be907dc6ebe?source=rss-2874682636d2------2)
 - [My Speaker’s View of CONVEX Summit 2026](https://medium.com/abp-community/my-speakers-view-of-convex-summit-2026-6d09d5a6d821?source=rss-2874682636d2------2)
 - [AI Isn’t Replacing Developers — It’s Changing What Good Developers Spend Time On](https://medium.com/abp-community/ai-isnt-replacing-developers-it-s-changing-what-good-developers-spend-time-on-42146e30f855?source=rss-2874682636d2------2)
 - [DevDays 2026 Conf From a Speaker’s View](https://alperonline.medium.com/devdays-2026-conf-from-a-speakers-view-a2046f8c140b?source=rss-2874682636d2------2)
-- [Devnot .NET Conference 2026](https://alperonline.medium.com/devnot-net-conference-2026-3d30d3c34d0b?source=rss-2874682636d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 
