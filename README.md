@@ -7,7 +7,7 @@
 ✨ I wrote my first "Hello world" in QBasic in 1997.
 <br>🌱 I'm currently learning/writing/talking about AI and its benefits to software development.
 <br>🎯 My goal is to make [ABP Framework](https://github.com/abpframework/abp) a de-facto standard in the .NET ecosystem for building modular enterprise apps.
-<br>🎲 Fun fact: Visited over 40 countries.
+<br>🎲 Fun fact: Visited 40+ countries.
 
 ###
 
