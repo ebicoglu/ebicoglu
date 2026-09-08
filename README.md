@@ -62,11 +62,11 @@ Write an email to alper.ebicoglu[@]volosoft.com
 <i>Synchronizing from my <a href='https://alperonline.medium.com/'>medium.com</a>...</i> 
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Present Your .NET Project To Your Mother?](https://medium.com/abp-community/how-to-present-your-net-project-to-your-mother-e55499c4063b?source=rss-2874682636d2------2)
 - [OSS Sustainability in .NET: Commercialization of Key Projects &amp; What’s Next](https://medium.com/abp-community/oss-sustainability-in-net-commercialization-of-key-projects-whats-next-6b7518c2e276?source=rss-2874682636d2------2)
 - [Tips for Developers New to ABP Framework](https://medium.com/abp-community/tips-for-developers-new-to-abp-framework-424398a2b830?source=rss-2874682636d2------2)
 - [We sponsored WeAreDevelopers 2026 | Berlin](https://alperonline.medium.com/we-sponsored-wearedevelopers-2026-berlin-0072e3276295?source=rss-2874682636d2------2)
 - [Empathy in the Workplace for Software Companies](https://medium.com/abp-community/empathy-in-the-workplace-for-software-companies-2be907dc6ebe?source=rss-2874682636d2------2)
-- [My Speaker’s View of CONVEX Summit 2026](https://medium.com/abp-community/my-speakers-view-of-convex-summit-2026-6d09d5a6d821?source=rss-2874682636d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 
