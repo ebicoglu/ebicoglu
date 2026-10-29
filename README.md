@@ -62,11 +62,11 @@ Write an email to alper.ebicoglu[@]volosoft.com
 <i>Synchronizing from my <a href='https://alperonline.medium.com/'>medium.com</a>...</i> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Reviews of DevAI Conference Poland From a Speaker’s Eye &lpar;with history and culture&rpar;](https://alperonline.medium.com/reviews-of-devai-conference-2026-from-a-speakers-eye-with-some-history-and-culture-24069f6f3962?source=rss-2874682636d2------2)
 - [A Speaker’s Perspective: WeAreDevelopers World Congress North America 2026 &lpar;Lots Of AI&rpar;](https://alperonline.medium.com/a-speakers-perspective-wearedevelopers-world-congress-north-america-2026-lots-of-ai-f29b25b8b8b9?source=rss-2874682636d2------2)
 - [How To Present Your .NET Project To Your Mother?](https://medium.com/abp-community/how-to-present-your-net-project-to-your-mother-e55499c4063b?source=rss-2874682636d2------2)
 - [OSS Sustainability in .NET: Commercialization of Key Projects &amp; What’s Next](https://medium.com/abp-community/oss-sustainability-in-net-commercialization-of-key-projects-whats-next-6b7518c2e276?source=rss-2874682636d2------2)
 - [Tips for Developers New to ABP Framework](https://medium.com/abp-community/tips-for-developers-new-to-abp-framework-424398a2b830?source=rss-2874682636d2------2)
-- [We sponsored WeAreDevelopers 2026 | Berlin](https://alperonline.medium.com/we-sponsored-wearedevelopers-2026-berlin-0072e3276295?source=rss-2874682636d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 
